@@ -1,0 +1,7 @@
+   
+    //  tsn usado para executar o arquivo selecionado  == passando Flahs = , (--transpile-only =  converte o ts para js sem verificar erros)
+    //--ignore-whatch= ignora a pasta repassada, no caso node_modules que contém codigo  de terceiros) , (--respawn=  para que o servidor se mantenha em execução) 
+    
+
+
+    
